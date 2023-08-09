@@ -1,3 +1,3 @@
 # nips2023-code
 
-Code for Nips2023
+Source Code of Nips2023 Submission "Towards Complete Expressiveness of the Mixing Function in Multi-Agent Reinforcement Learning".
